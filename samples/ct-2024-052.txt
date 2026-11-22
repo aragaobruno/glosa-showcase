@@ -1,0 +1,37 @@
+[[PÁGINA 1]]
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS Nº CT-2024-052
+Licenciamento de software corporativo (SaaS)
+
+CONTRATANTE: Indústria Exemplo de Embalagens S.A. (fictícia), inscrita no CNPJ sob o nº 81.085.649/0001-54.
+CONTRATADA: Licenciar Software S.A., inscrita no CNPJ sob o nº 06.109.871/0001-24.
+
+CLÁUSULA 1 – DO OBJETO
+1.1. O presente contrato tem por objeto a prestação dos serviços descritos no Anexo I, nas quantidades efetivamente demandadas pela CONTRATANTE.
+
+CLÁUSULA 2 – DA VIGÊNCIA
+2.1. O contrato vigorará por 36 (trinta e seis) meses a partir de sua assinatura, podendo ser prorrogado mediante termo aditivo.
+
+CLÁUSULA 3 – DO FATURAMENTO
+3.1. A CONTRATADA emitirá uma nota fiscal por competência mensal, discriminando quantidade, preço unitário e valor total de cada item.
+
+CLÁUSULA 4 – DOS PREÇOS E DO REAJUSTE
+4.1. Os preços constantes do Anexo I têm como data-base o mês de junho de 2024.
+4.2. Os preços serão reajustados a cada 12 (doze) meses, contados da data-base, pela variação acumulada do IPCA/IBGE nos 12 meses anteriores ao mês do reajuste, limitada a 4,50% por período.
+4.3. Variações negativas do índice não reduzirão os preços vigentes.
+4.4. Os preços unitários reajustados serão arredondados na quarta casa decimal.
+
+[[PÁGINA 2]]
+ANEXO I – TABELA DE PREÇOS (data-base)
+Código | Descrição | Unidade | Preço unitário
+LIC-COLAB | Suíte de colaboração | usuário/mês | R$ 62,90
+LIC-CRM | CRM de vendas | usuário/mês | R$ 189,00
+LIC-BI | Plataforma de BI | usuário/mês | R$ 74,50
+
+
+CLÁUSULA 6 – DO PAGAMENTO
+6.1. O pagamento será efetuado em 45 (quarenta e cinco) dias contados da emissão da nota fiscal.
+
+[[PÁGINA 3]]
+PRIMEIRO TERMO ADITIVO AO CONTRATO Nº CT-2024-052
+As partes resolvem alterar o contrato nos termos abaixo, permanecendo inalteradas as demais cláusulas.
+Cláusula 1. Fica cancelado o item LIC-BI a partir da competência de março de 2026.

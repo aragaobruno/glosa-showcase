@@ -1,0 +1,32 @@
+[[PÁGINA 1]]
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS Nº CT-2024-088
+Suporte técnico de TI 24x7
+
+CONTRATANTE: Indústria Exemplo de Embalagens S.A. (fictícia), inscrita no CNPJ sob o nº 81.085.649/0001-54.
+CONTRATADA: Suporte Prime 24x7 Ltda., inscrita no CNPJ sob o nº 13.891.935/0001-57.
+
+CLÁUSULA 1 – DO OBJETO
+1.1. O presente contrato tem por objeto a prestação dos serviços descritos no Anexo I, nas quantidades efetivamente demandadas pela CONTRATANTE.
+
+CLÁUSULA 2 – DA VIGÊNCIA
+2.1. O contrato vigorará por 36 (trinta e seis) meses a partir de sua assinatura, podendo ser prorrogado mediante termo aditivo.
+
+CLÁUSULA 3 – DO FATURAMENTO
+3.1. A CONTRATADA emitirá uma nota fiscal por competência mensal, discriminando quantidade, preço unitário e valor total de cada item.
+
+CLÁUSULA 4 – DOS PREÇOS E DO REAJUSTE
+4.1. Os preços constantes do Anexo I têm como data-base o mês de setembro de 2024.
+4.2. Os preços serão reajustados a cada 12 (doze) meses, contados da data-base, pela variação acumulada do IPCA/IBGE nos 12 meses anteriores ao mês do reajuste.
+4.3. Variações negativas do índice não reduzirão os preços vigentes.
+4.4. Os preços unitários reajustados serão arredondados na quarta casa decimal.
+
+[[PÁGINA 2]]
+ANEXO I – TABELA DE PREÇOS (data-base)
+Código | Descrição | Unidade | Preço unitário
+SUP-N1 | Posto de suporte N1 | posto/mês | R$ 7.200,00
+SUP-HE | Hora extra de técnico | hora | R$ 145,00
+VISITA | Visita técnica on-site | visita | R$ 380,00
+
+
+CLÁUSULA 6 – DO PAGAMENTO
+6.1. O pagamento será efetuado em 30 (trinta) dias contados da emissão da nota fiscal.

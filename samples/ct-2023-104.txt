@@ -1,0 +1,39 @@
+[[PÁGINA 1]]
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS Nº CT-2023-104
+Infraestrutura em nuvem (IaaS) sob demanda
+
+CONTRATANTE: Indústria Exemplo de Embalagens S.A. (fictícia), inscrita no CNPJ sob o nº 81.085.649/0001-54.
+CONTRATADA: Nuvem Austral Serviços de TI S.A., inscrita no CNPJ sob o nº 62.005.242/0001-25.
+
+CLÁUSULA 1 – DO OBJETO
+1.1. O presente contrato tem por objeto a prestação dos serviços descritos no Anexo I, nas quantidades efetivamente demandadas pela CONTRATANTE.
+
+CLÁUSULA 2 – DA VIGÊNCIA
+2.1. O contrato vigorará por 36 (trinta e seis) meses a partir de sua assinatura, podendo ser prorrogado mediante termo aditivo.
+
+CLÁUSULA 3 – DO FATURAMENTO
+3.1. A CONTRATADA emitirá uma nota fiscal por competência mensal, discriminando quantidade, preço unitário e valor total de cada item.
+
+CLÁUSULA 4 – DOS PREÇOS E DO REAJUSTE
+4.1. Os preços constantes do Anexo I têm como data-base o mês de novembro de 2023.
+4.2. Os preços serão reajustados a cada 12 (doze) meses, contados da data-base, pela variação acumulada do IGP-M/FGV nos 12 meses anteriores ao mês do reajuste, limitada a 3,00% por período.
+4.3. Variações negativas do índice não reduzirão os preços vigentes.
+4.4. Os preços unitários reajustados serão arredondados na quarta casa decimal.
+
+[[PÁGINA 2]]
+ANEXO I – TABELA DE PREÇOS (data-base)
+Código | Descrição | Unidade | Preço unitário
+VCPU-H | vCPU-hora | vCPU-hora | R$ 0,3850
+RAM-GB-H | Memória RAM | GB-hora | R$ 0,0520
+STO-GB | Armazenamento em bloco | GB-mês | R$ 0,6900
+BKP-TB | Backup gerenciado | TB-mês | R$ 145,00
+
+CLÁUSULA 5 – DO NÍVEL DE SERVIÇO (SLA)
+5.1. A CONTRATADA garante disponibilidade mensal mínima de 99,90% para os itens VCPU-H, RAM-GB-H.
+5.2. Disponibilidade inferior à garantida gera crédito sobre o valor mensal contratado dos itens cobertos, conforme as faixas:
+- abaixo de 99,90%: crédito de 10%;
+- abaixo de 99,00%: crédito de 25%;
+5.3. O crédito será concedido na fatura da competência subsequente à medição.
+
+CLÁUSULA 6 – DO PAGAMENTO
+6.1. O pagamento será efetuado em 30 (trinta) dias contados da emissão da nota fiscal.
